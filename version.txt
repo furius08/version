@@ -1,5 +1,1 @@
 1.0.1
-Une nouvelle version est disponible
-Tu es à jour
-La version distante n'est pas valide
-Impossible de vérifier la dernière version
